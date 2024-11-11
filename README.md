@@ -15,5 +15,7 @@ La práctica constante es clave para mejorar en programación y resolver problem
 - [NeetCode](https://neetcode.io/)
 - [HackerRank](https://www.hackerrank.com/)
 
+*( Iré agregando más plataformas a este repositorio...* 😄 *)*
+
 ## ¡Gracias por visitar mi repositorio! 🎉
 No dudes en revisar los retos y a dejar sugerencias o mejoras en cada solución. 😄
