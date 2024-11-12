@@ -1,21 +1,22 @@
-# Retos Diarios de Programación 💻
+# Daily Programming Challenges 💻
 
-Bienvenido a mi repositorio de **Retos Diarios de Programación**. Aquí comparto mi progreso y soluciones a desafíos de código que realizo diariamente en plataformas como **NeetCode** y **HackerRank**. Este proyecto me ayuda a mejorar mis habilidades de programación, a practicar algoritmos y estructuras de datos, y a mantenerme activo en GitHub. 🚀
+Welcome to my **Daily Programming Challenges** repository. Here, I share my progress and solutions to coding challenges I tackle daily on platforms like **NeetCode** and **HackerRank**. This project helps me improve my programming skills, practice algorithms and data structures, and stay active on GitHub. 🚀
 
-## Estructura del Proyecto 🗂️
+## Project Structure 🗂️
 
-El repositorio está organizado por meses y plataformas, de manera que es fácil ver mi constancia y progreso a lo largo del tiempo. Cada reto incluye una descripción del problema, mi enfoque y solución en código.
+The repository is organized by months and platforms, making it easy to track my consistency and progress over time. Each challenge includes a problem description, my approach, and the solution in code.
 
-## Motivación 💪
+## Motivation 💪
 
-La práctica constante es clave para mejorar en programación y resolver problemas complejos. Este repositorio refleja mi compromiso diario y mi evolución como desarrollador.
+Constant practice is key to improving in programming and solving complex problems. This repository reflects my daily commitment and growth as a developer.
 
-## Plataformas Utilizadas 🖥️
+## Platforms Used 🖥️
 
 - [NeetCode](https://neetcode.io/)
 - [HackerRank](https://www.hackerrank.com/)
 
-*( Iré agregando más plataformas a este repositorio...* 😄 *)*
+*(I will be adding more platforms to this repository...* 😄 *)*
 
-## ¡Gracias por visitar mi repositorio! 🎉
-No dudes en revisar los retos y a dejar sugerencias o mejoras en cada solución. 😄
+## Thanks for visiting my repository! 🎉
+
+Feel free to check out the challenges and leave suggestions or improvements for each solution. 😄
